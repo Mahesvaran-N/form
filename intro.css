@@ -1,0 +1,13 @@
+form{
+    background-color: aqua;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 10%;
+    padding: 30px;
+}
+label{
+    padding: 10px;
+}
+h2{
+    color: brown;
+}
